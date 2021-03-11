@@ -28,3 +28,5 @@ $ npm run build
 # to start server
 $ npm start
 ```
+
+Custom commands for `npm` are defined in `package.json` file.
