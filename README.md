@@ -10,3 +10,21 @@ This is basic setup for vue 3, with typescript and express as development server
 - TypeScript
 - Webpack 5
 - Express.js
+
+# Quick Start
+
+Clone or fork the repository and after you get code run
+
+```
+# to install all dependencies
+$ npm i
+
+# to run server in development mode
+$ npm run dev
+
+# to build static files
+$ npm run build
+
+# to start server
+$ npm start
+```
